@@ -2,6 +2,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "main": "dist/index.js",
+  "private": false,
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
