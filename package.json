@@ -37,5 +37,14 @@
   },
   "dependencies": {
     "prettier-eslint": "9.0.1"
-  }
+  },
+  "description": "collection of math functions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onichandame/math.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onichandame/math/issues"
+  },
+  "homepage": "https://github.com/onichandame/math#readme"
 }
