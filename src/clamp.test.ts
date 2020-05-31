@@ -1,4 +1,4 @@
-import { clamp } from "./clamp"
+import { clamp } from "."
 
 const bounds = [0, 1] as [number, number]
 const reversBounds = bounds.reverse() as [number, number]
